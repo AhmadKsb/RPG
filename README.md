@@ -16,3 +16,4 @@ You can also find me on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/ahmad-kassabieh-919853105/
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
