@@ -1,5 +1,3 @@
-# RPG
-
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://img.shields.io/badge/<C>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -16,4 +14,3 @@ You can also find me on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/ahmad-kassabieh-919853105/
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
